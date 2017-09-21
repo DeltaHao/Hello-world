@@ -1,2 +1,3 @@
 # Hello-world
-My first repository
+My first repository   
+I will be a programmer:)
