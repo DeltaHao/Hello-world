@@ -1,3 +1,3 @@
 # Hello-world
-My first repository\n
+My first repository   
 I will be a programmer:)
